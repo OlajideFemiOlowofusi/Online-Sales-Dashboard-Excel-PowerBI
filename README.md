@@ -44,7 +44,7 @@ The dataset is organized using a fact table and several dimension tables.
 5. Evaluate the performance of specific products or categories in different regions to tailor marketing campaigns accordingly.
 
 ## 🖼️ Dashboard Preview
-*(Add a screenshot of your Power BI or Excel dashboard here)*  
+
 ![Dashboard Preview](images/dashboard_preview.png)
 
 
@@ -54,3 +54,4 @@ The dataset is organized using a fact table and several dimension tables.
 - `data/` – Raw and cleaned datasets used for analysis
 - `images/` – Screenshots of the dashboard (used in README)
 - `README.md` – Project overview and documentation
+
